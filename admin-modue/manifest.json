@@ -1,0 +1,21 @@
+{
+    "short_name": "Cybermaisha Admin",
+    "name": "Cybermaisha Adminstrator",
+    "description":"Adminstrator Application",
+    "icons": [
+      {
+        "src": "public/img/cm.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "public/img/cm.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "index.php",
+    "background_color": "#FF0000",
+    "display": "standalone",
+    "theme_color": "#FFA07A"
+  }

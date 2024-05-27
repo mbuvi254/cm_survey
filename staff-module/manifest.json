@@ -1,0 +1,21 @@
+{
+    "short_name": "Cybermaisha Staff",
+    "name": "Cybermaisha Staff",
+    "description":"Staff Application",
+    "icons": [
+      {
+        "src": "public/img/cm.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "public/img/cm.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url":"index.php",
+    "background_color": "#0000FF",
+    "display": "standalone",
+    "theme_color": "#00FF00"
+  }
